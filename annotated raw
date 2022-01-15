@@ -1600,30 +1600,14 @@
   pointer-events: none;
 }
 :root .app-3xd6d0::before {
-  left: 0;
-  top: 0;
+  top: 66px;
+  right: 86px;
   width: 250px;
-  height: 250px;
-  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
+  height: 340px;
+  background: url("https://www.linkpicture.com/q/ezgif-4-39533f431af6_1.gif");
   background-size: 100%;
 }
-:root .app-3xd6d0::after {
-  z-index: 0;
-  left: 50px;
-  bottom: 0;
-  width: 490px;
-  height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
-  background-size: 100%;
-}
-:root .app-2CXKsg::before {
-  top: 80px;
-  right: 116px;
-  width: 200px;
-  height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
-  background-size: 100%;
-}
+
 :root .app-2CXKsg::after {
   bottom: 20px;
   right: 45%;
@@ -1672,9 +1656,6 @@
   }
 }
 
-:root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
-  font-family: "Nunito" !important;
-}
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
   background-size: cover;
@@ -1930,7 +1911,7 @@
 
 /* background */
 
---background-tertiary-alt: url("https://www.linkpicture.com/q/5c43d280ddfbd4a1b4c571874e699f8d_1.gif");
+--background-tertiary-alt: url("https://www.linkpicture.com/q/original-1.gif");
 
 /* border-radius for the whole theme */
 --border-radius: 20px;
